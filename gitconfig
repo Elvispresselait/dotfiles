@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hadrien.rose@protonmail.com
+	name = Hadrien Rose
